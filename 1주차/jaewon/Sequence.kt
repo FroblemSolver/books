@@ -1,5 +1,8 @@
 package `1주차`.jaewon
 
+/**
+ * - sequence: 필요할 때 마다 하나씩 값을 계산하는 지연(lazy) 방식을 사용
+ */
 fun main() {
     interviewRacer().take(10).forEach {
         println(it)
