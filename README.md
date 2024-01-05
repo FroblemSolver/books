@@ -19,4 +19,5 @@
 날짜|책|분량|발표자
 -|-|-|-
 2023.12.21 | Kotlin Coroutines :Deep Dive | 1부 (1~5장) | 지은
-2023.12.28 | Kotlin Coroutines :Deep Dive | 2부 (6~8장) | 
+2024.01.05 | Kotlin Coroutines :Deep Dive | 2부 (6~8장) | 재원
+2023.01.?? | Kotlin Coroutines :Deep Dive | 2부 (9~10장) |
