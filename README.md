@@ -21,4 +21,5 @@
 2023.12.21 | Kotlin Coroutines :Deep Dive | 1부 (1~5장) | 지은
 2024.01.05 | Kotlin Coroutines :Deep Dive | 2부 (6~8장) | 재원
 2024.01.11 | Kotlin Coroutines :Deep Dive | 2부 (9~10장) | 지은
-2024.01.?? | Kotlin Coroutines :Deep Dive | 2부 (11장) | 
+2024.01.18 | Kotlin Coroutines :Deep Dive | 2부 (11장) | 재원 & 재훈
+2024.01.?? | Kotlin Coroutines :Deep Dive | 2부 (12장) | ??
