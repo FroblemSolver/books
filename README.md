@@ -16,15 +16,25 @@
 
 ## 일정
 
-| 날짜       | 책                           | 분량                                                                           | 발표자      |
-| ---------- | ---------------------------- | ------------------------------------------------------------------------------ | ----------- |
-| 2023.12.21 | Kotlin Coroutines :Deep Dive | 1부 ([1~5장])                                                                    | 지은        |
-| 2024.01.05 | Kotlin Coroutines :Deep Dive | 2부 (6~8장)                                                                    | 재원        |
-| 2024.01.11 | Kotlin Coroutines :Deep Dive | 2부 ([9~10장])                                                                   | 지은        |
-| 2024.01.18 | Kotlin Coroutines :Deep Dive | 2부 ([11장](https://bossm0n5t3r.github.io/books/kotlin-coroutines-chapter11/)) | 재원 & 지훈 |
-| 2024.01.25 | Kotlin Coroutines :Deep Dive | 2부 ([12장])                                                                     | 지은          |
-| 2024.01.?? | Kotlin Coroutines :Deep Dive | 2부 (13~14장)                                                                     | ??          |
+| 날짜       | 책                           | 분량                 | 발표자      |
+| ---------- | ---------------------------- | -------------------- | ----------- |
+| 2023.12.21 | Kotlin Coroutines :Deep Dive | 1부 ([1~5장])        | 지은        |
+| 2024.01.05 | Kotlin Coroutines :Deep Dive | 2부 (6~8장)          | 재원        |
+| 2024.01.11 | Kotlin Coroutines :Deep Dive | 2부 ([9~10장])       | 지은        |
+| 2024.01.18 | Kotlin Coroutines :Deep Dive | 2부 ([11장])         | 재원 & 지훈 |
+| 2024.01.25 | Kotlin Coroutines :Deep Dive | 2부 ([12장])         | 지은        |
+| 2024.02.08 | Kotlin Coroutines :Deep Dive | 2부 ([13장], [14장]) | 성하        |
+| 2024.02.08 | Kotlin Coroutines :Deep Dive | 2부 ([15장])         | 지훈        |
+| 2024.02.16 | Kotlin Coroutines :Deep Dive | 3부 (16~17장)        | ??          |
+| 2024.02.22 | Kotlin Coroutines :Deep Dive | 3부 (18~20장)        | ??          |
+| 2024.02.29 | Kotlin Coroutines :Deep Dive | 3부 (21~22장)        | ??          |
+| 2024.03.08 | Kotlin Coroutines :Deep Dive | 3부 ([23장])         | 지훈        |
 
 [1~5장]: https://wotosts.github.io/kotlin/kotlin-kotlin-coroutine-deep-dive-15/
 [9~10장]: https://wotosts.github.io/kotlin/kotlin-kotlin-coroutine-deep-dive-910/
+[11장]: https://bossm0n5t3r.github.io/books/kotlin-coroutines-chapter11/
 [12장]: https://wotosts.github.io/kotlin/kotlin-coroutine-deep-dive-12/
+[13장]: https://haesom.notion.site/13-85f512767e3b46ef92fb45fdc7250d21
+[14장]: https://haesom.notion.site/14-afa72222e5af46b7af7a8d88ae8cc60e
+[15장]: https://bossm0n5t3r.github.io/books/kotlin-coroutines-chapter15/
+[23장]: https://bossm0n5t3r.github.io/books/kotlin-coroutines-chapter23/
